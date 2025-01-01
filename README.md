@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Phale</h1>
 <h3 align="center">Passionate Software developer crafting seamless user experiences</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Mern stack,SpringBoot,Cloud-AWS**
 
 - 💬 Ask me about **Java,C++,Data structure and algorithms**
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!--   <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 <a href="https://linkedin.com/in/www.linkedin.com/in/ shubham-phale-a8a194327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ shubham-phale-a8a194327" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/be_the_one/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/be_the_one/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamp5yr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamp5yr0" height="30" width="40" /></a>
