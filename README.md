@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Phale</h1>
 <h3 align="center">Passionate Software developer crafting seamless user experiences</h3>
+<br>
 
 - 🌱 I’m currently learning **Mern stack,SpringBoot,Cloud-AWS**
 
@@ -21,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhz18&show_icons=true&locale=en" alt="shubhz18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhz18&" alt="shubhz18" /></p>
