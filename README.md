@@ -3,6 +3,7 @@
     <br>
 <h1 align="center">Hi 👋, I'm Shubham Phale</h1>
 <h3 align="center">Passionate Software developer crafting seamless user experiences</h3>
+<br>
 
 - 🌱 I’m currently learning **Mern stack,SpringBoot,Cloud-AWS**
 
